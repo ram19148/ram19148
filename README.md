@@ -94,6 +94,6 @@ Building a strong portfolio that connects **data science, software development, 
 
 📧 **Email:** [ramkrishna19148@gmail.com](mailto:ramkrishna19148@gmail.com)
 
-💼 LinkedIn: Ram Krishna Singh(https://www.linkedin.com/)
+💼 LinkedIn: Ram Krishna Singh(linkedin.com/in/ram-krishna-singh-364b2025a)
 
 🐙 **GitHub:** [@ram19148](https://github.com/ram19148)
